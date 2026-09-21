@@ -1,19 +1,6 @@
 # Dad40
 
 Dad40 is a privacy-focused pregnancy companion designed for dads and partners.
-
-## Website
-
-https://YOUR_GITHUB_USERNAME.github.io/
-
-## Privacy Policy
-
-https://YOUR_GITHUB_USERNAME.github.io/privacy.html
-
-## app-ads.txt
-
-https://YOUR_GITHUB_USERNAME.github.io/app-ads.txt
-
 ---
 
 # About Dad40
